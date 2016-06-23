@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/instructions"
+        android:textAppearance="?android:attr/textAppearanceMedium" >
+    </TextView>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel2"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel3"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel4"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel5"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel6"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel7"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel8"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel9"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel10"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel11"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel12"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel13"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel14"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel15"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel16"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel17"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel18"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel19"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+
+    <com.fountainhead.nabil.finalapp.PaintPanel
+        android:id="@+id/paintpanel20"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1" >
+    </com.fountainhead.nabil.finalapp.PaintPanel>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff666666"
+        android:orientation="horizontal" >
+
+        <com.fountainhead.nabil.finalapp.StatusPanel
+            android:id="@+id/statuspanel"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="2"
+            android:hint="@string/statuspanelhint" >
+        </com.fountainhead.nabil.finalapp.StatusPanel>
+
+        <Button
+            android:id="@+id/resetbutton"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1"
+            android:onClick="clickReset"
+            android:text="@string/resetbuttontext" />
+    </LinearLayout>
+
+</LinearLayout>
